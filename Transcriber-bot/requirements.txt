@@ -4,4 +4,3 @@ sounddevice
 keyboard
 numpy
 scipy
-cl
