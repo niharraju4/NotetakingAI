@@ -1,5 +1,6 @@
 import threading
 import time
+from src.transcriber import process_audio_queue  # Import the missing function
 
 pause_flag = threading.Event()  # Event flag to pause/resume
 
