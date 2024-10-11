@@ -8,7 +8,7 @@ import os
 
 def main():
     # Ensure transcription file and folder exist
-    transcription_file = "transcriptions/live_transcription.txt"
+    transcription_file = os.path.join(os.path.dirname(__file__), 'transcriptions/live_transcription.txt')
     os.makedirs(os.path.dirname(transcription_file), exist_ok=True)
     with open(transcription_file, "a") as f:
         f.write("")  # Create an empty file if it doesn't exist
@@ -30,8 +30,6 @@ def main():
     pause_transcription()
     time.sleep(10)  # Pause for 10 seconds
     resume_transcription()
-
-
 
 
 if __name__ == "__main__":
