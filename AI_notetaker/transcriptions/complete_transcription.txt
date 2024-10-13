@@ -1,0 +1,41 @@
+ It allowed us to form a cluster of computers and use the combined capacity for storing
+ data. That was not enough. We also got the map reduced
+ allows us to use the combined computing power of the cluster and use it to produce the enormous data volumes.
+ that we stored in HDFS. And that was a revolutionary technology at that time.
+ because we do not need expensive supercomputers to store and process large volumes of data.
+ Instead, Hadoob allowed us to combine regular computers into a cluster and create the storage
+ computation capacity needed. It allowed us to collect and store a kind of data volume, which was all-
+ most impossible earlier. What was there before the STFS and MapReduce came into existence?
+ like Terra data and XR data. How to use these data warehouses?
+ We created pipelines to collect data from many old-by systems and brought them into the data warehouse.
+ Then we processed all that data to extract business insights and used it to make the correct business DC.
+ This is precisely the same as what Hadoop promised to offer. Hadoop also...
+ offer to collect data and process it to extract business insights. So the advent of HIFS.
+ and Map Redoes started challenging these data warehouses in three critical respects. Increasing the capacity.
+ or scaling the HDFS and MapReduce was as simple as adding more cheap servers to your cluster.
+ Whereas, scaling the data warehouse system was complex and expensive. Hadoob L.A
+ us to start with a low cost small cluster and add more low priced servers as and when we need
+ did more capacity. What about data warehouses? We needed to plan and
+ advance because increasing the capacity at a later stage was complex, expensive and time consuming.
+ Finally, data warehouses mostly supported structured data. Some of them also dem-
+ I loved the little support for some structure data, but that was not enough. Hadoop allowed us to store a variety of data.
+ text, JSON, XML, images, audio, videos and what not.
+ So, Hadoop offers support for variety of data formats. We often categorize it into three categories.
+ structure data, semi-structured data and unstructured data. Data warehouses were challenged and we needed
+ new name for the Hadoop approach. This is precisely when James Dixon, CTO at Pentaho, coin at
+ new term the data lake. So how did data lake work? Here is how data lake was.
+ initially imagine. Same as data warehouses, we collected data from different data sources and stored them.
+ in HDFS. Then we used the MapReduce and Spark to process this data and prepare new data
+ models for generating reports and business insights. His park took over the map retours and other tools over a period of time.
+ time. So it is safe to consider that we used Spark to process and prepare the data for recording. This process…
+ This data was also stored in data lake storage for business intelligence and reporting. Most of the popular BIN
+ putting rules offered a connector to access data from the data lake. Data Lake also allowed us to collect and browse.
+ is huge volumes of semi structured and unstructured data. That's what we needed for machine learning and here.
+ So, data lake also empowered ML and AI workloads. So, this is how the data lake was imagined.
+ and applied in the initial days of data lake evolution. However, the data lake technology missed two super-
+ are critical features that data warehouses offer. Transaction and consistency. And then...
+ There were a few other things that Data Lake could not support properly, but these two were the most
+ critical problems. So we started to adopt a different architecture for implementing data lakes.
+ We started to integrate relational databases and data warehouses for reporting and BI purchases.
+ So basically we collected data and data lake storage, processed it using Apache Spark and stored the result in...
+ data warehouse. Finally, we connected the BI and reported with the data warehouse. Machine learning.

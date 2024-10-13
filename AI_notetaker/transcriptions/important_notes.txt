@@ -1,0 +1,96 @@
+- Formed a cluster of computers
+- Utilized combined capacity for storage
+The transcript is too short and lacks context to provide a meaningful summary. From the given information, it can be inferred that the data was insufficient and a map reduction was also obtained.
+1. The system enables the use of combined computing power of the cluster.
+2. This combined power is used to produce enormous volumes of data.
+- Data was stored in HDFS (Hadoop Distributed File System).
+- This technology was considered revolutionary at the time.
+- No need for expensive supercomputers 
+- Large volumes of data can be stored and processed without them
+1. Hadoob enables the combination of regular computers into a cluster.
+2. This process creates storage.
+- Computation capacity was required.
+- This capacity enabled the collection and storage of a significant volume of data.
+1. The discussion revolves around what existed before the introduction of STFS and MapReduce.
+2. There is a mention of difficulties or impossibilities faced prior to these systems.
+1. The discussion revolves around Terra data and XR data.
+2. The main concern is understanding how to use these data warehouses.
+1. Pipelines were created to collect data.
+2. The data was sourced from numerous old systems.
+3. The collected data was then transferred into the data warehouse.
+1. The data was processed thoroughly.
+2. Business insights were extracted from the data.
+3. These insights were used to make appropriate business decisions.
+- The subject matter is Hadoop.
+- Hadoop promises to offer something that is being compared to another unspecified thing.
+- The speaker does not provide specifics on what Hadoop's offerings are.
+- An offer has been made to collect and process data.
+- The goal of this process is to extract business insights.
+- This is related to the advent of HIFS.
+- Map Redoes began challenging data warehouses.
+- The challenge is focused on three critical aspects.
+- One of these aspects is increasing the capacity.
+1. Scaling the HDFS and MapReduce can be easily achieved.
+2. This is done by adding more inexpensive servers to the cluster.
+1. The process of scaling the data warehouse system was complex.
+2. This scaling process was also expensive.
+3. The context involves Hadoob L.A, possibly a company or system.
+1. The plan is to begin with a low-cost, small cluster.
+2. There is an intention to add more low-priced servers as needed.
+- There was a discussion about increasing capacity.
+- The topic of data warehouses was brought up.
+- There was a need to plan and strategize for data warehouses.
+1. The capacity was increased in advance.
+2. Increasing capacity at a later stage was considered complex.
+3. The later increase in capacity was also expensive.
+4. The process was time consuming.
+- Data warehouses primarily support structured data.
+- Some data warehouses also support dem- (the sentence is incomplete, full information not available).
+1. The speaker appreciated the minimal support for structured data.
+2. However, this support was not sufficient for their needs.
+3. Hadoop was used to store a variety of data.
+- The text discusses various types of data formats: text, JSON, XML.
+- It also mentions different types of media: images, audio, videos.
+- The phrase "and what not" suggests that there may be other types not specifically listed.
+1. Hadoop provides support for a variety of data formats.
+2. Data formats in Hadoop are often classified into three categories.
+1. Discussion about different types of data: structured, semi-structured, and unstructured.
+2. Mention of challenges faced by data warehouses.
+- James Dixon, the CTO at Pentaho, coined a new name for the Hadoop approach.
+The transcript discusses the concept of a "data lake". However, no specific details or explanations about how a data lake works were provided in the given text.
+1. Data is collected from various sources.
+2. The collected data is stored, similar to data warehouses.
+1. Data was stored in HDFS (Hadoop Distributed File System).
+2. MapReduce and Spark were utilized to process this data.
+3. The processed data was used to prepare new data.
+1. Models were discussed for generating reports and business insights.
+2. The individual's park assumed control over the map retours and other tools over time.
+- Spark was used to process and prepare the data.
+- The data was prepared for recording.
+1. The data was stored in data lake storage.
+2. This storage was used for business intelligence and reporting purposes.
+3. The BIN used was popular.
+1. Rules were put in place to offer a connector for accessing data from the data lake.
+2. The data lake allows for the collection and browsing of data.
+1. There are large volumes of semi-structured and unstructured data.
+2. This type of data is necessary for machine learning.
+- Data lake empowers Machine Learning (ML) and Artificial Intelligence (AI) workloads.
+- The concept of data lake was imagined with this capability in mind.
+The provided text is insufficient to create a comprehensive summary. From the given information, the only key point that can be extracted is:
+
+- Data lake technology was applied in the initial days of its evolution, but it missed two significant aspects. (The aspects are not specified in the provided text.)
+- Data warehouses offer critical features
+- These features include transaction and consistency.
+- Data Lake had issues with proper support.
+- Two of these issues were particularly significant, though unspecified in the provided text.
+- Identified critical problems with the current system
+- Started adopting a different architecture 
+- This new architecture is specifically for implementing data lakes
+1. Initiated integration of relational databases and data warehouses.
+2. The integration is aimed at improving reporting and Business Intelligence (BI) purchases.
+1. Data was collected and stored in a data lake.
+2. The collected data was processed using Apache Spark.
+3. The results of the processing were stored.
+1. A data warehouse was established.
+2. The Business Intelligence (BI) was connected and reported with the data warehouse.
+3. Machine learning was implemented or discussed.

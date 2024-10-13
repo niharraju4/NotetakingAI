@@ -11,7 +11,7 @@ def main():
     list_audio_devices()
 
     # Set the device index to the WASAPI loopback device
-    device_index = 47  # Example: WASAPI loopback device for speakers (update based on your device index)
+    device_index = 50  # Example: WASAPI loopback device for speakers (update based on your device index)
 
     # Ensure transcription file and folder exist
     transcription_file = os.path.join(os.path.dirname(__file__), 'transcriptions/live_ you youtranscription.txt')
