@@ -1,0 +1,6 @@
+openai-whisper
+pyaudio
+sounddevice
+keyboard
+numpy
+scipy
