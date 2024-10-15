@@ -1,8 +1,4 @@
-Certainly! Below is a merged README file that combines the detailed explanations of all the modules and the `main.py` file into one cohesive document.
-
----
-
-# Project Overview
+Project Overview
 
 This project captures system audio, transcribes it using a speech recognition model, summarizes the transcription using a language model, and types the transcription in real-time into a text editor like WordPad. The project is divided into several modules, each responsible for a specific task.
 
